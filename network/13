@@ -1,0 +1,6 @@
+$ nslookup 10.11.13.1
+
+Server:		10.51.1.42
+Address:	10.51.1.42#53
+
+1.13.11.10.in-addr.arpa	name = e1r13p1.42.fr.
