@@ -1,0 +1,9 @@
+En graphique, il suffit d'entrer son username et son mot de passe.
+
+En ssh, il faut taper la commande suivante
+
+Dans la VM:
+ssh username@hostname
+
+Sur le terminal:
+ssh username@ipaddress

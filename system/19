@@ -1,0 +1,16 @@
+# systemctl list-units --type service
+
+UNIT                         LOAD   ACTIVE SUB     DESCRIPTION
+abrt-ccpp.service            loaded active exited  Install ABRT coredump hook
+abrt-oops.service            loaded active running ABRT kernel log watcher
+abrt-xorg.service            loaded active running ABRT Xorg log watcher
+abrtd.service                loaded active running ABRT Automated Bug Reporting 
+accounts-daemon.service      loaded active running Accounts Service
+alsa-state.service           loaded active running Manage Sound Card State (rest
+atd.service                  loaded active running Job spooling tools
+auditd.service               loaded active running Security Auditing Service
+avahi-daemon.service         loaded active running Avahi mDNS/DNS-SD Stack
+bluetooth.service            loaded active running Bluetooth service
+bumblebee-nvidia.service     loaded active exited  Compiling NVidia Driver
+
+Ce sont des daemons
